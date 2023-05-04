@@ -18,7 +18,6 @@ body {
   place-items: center;
 }
 .card {
-  outline: 1px dashed red;
   background: var(--white);
   width: 290px;
 
